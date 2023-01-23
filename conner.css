@@ -23,7 +23,7 @@ body {
     width: 75%;
 }
 
-h1, h2, p {
+.h2, h1, h3, p {
     text-align: center;
 }
 
@@ -33,7 +33,7 @@ h1 {
     color: aqua;
 }
 
-h2 {
+.h2 {
     font-size: 36px;
     font-style: oblique;
     color: blueviolet;
@@ -54,5 +54,24 @@ p {
 .caption {
     font-size: 16px;
     color: brown;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: oblique;
+    color: darkcyan;
+}
+
+#btn {
+    border: 2px solid black;
+    border-radius: 25px;
+    color: blue;
+    background-color: chartreuse;
+}
+
+input[type=text]{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: chartreuse;
 }
 
