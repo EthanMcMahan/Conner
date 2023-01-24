@@ -21,7 +21,7 @@ const changeColor = () => {
     }
     let index3 = 0, length3 = img.length;
     for (index3 = 0; index3 < length3; index3++) {
-        img[index3].style.color = "chocolate";
+        img[index3].style.borderColor = "chocolate";
     }
 };
 
