@@ -96,7 +96,7 @@ input[type=text]{
     background-color: #5FC9F5;
   }
 
-.btn close-bd {
+.btn {
     border: 2px solid black;
     border-radius: 25px;
     color: blue;
