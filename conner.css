@@ -75,3 +75,25 @@ input[type=text]{
     background-color: chartreuse;
 }
 
+.wrapper {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  [class|="confetti"] {
+    position: absolute;
+  }
+  
+  .red {
+    background-color: #E94A3F;
+  }
+  
+  .yellow {
+    background-color: #FAA040;
+  }
+  
+  .blue {
+    background-color: #5FC9F5;
+  }
+
+  
