@@ -84,16 +84,22 @@ input[type=text]{
     position: absolute;
   }
   
-  .red {
+.red {
     background-color: #E94A3F;
   }
   
-  .yellow {
+.yellow {
     background-color: #FAA040;
   }
   
-  .blue {
+.blue {
     background-color: #5FC9F5;
   }
 
-  
+.btn close-bd {
+    border: 2px solid black;
+    border-radius: 25px;
+    color: blue;
+    background-color: chartreuse;
+    margin: 0 0 0 1100px;
+}
