@@ -15,6 +15,17 @@ body {
     width: 100%;
     height: auto;
     border-radius: 25px;
+    top:-50px; 
+    left:-35px;  
+    z-index:999; 
+    cursor: pointer; 
+    transition-property: all; 
+    transition-duration: 0.3s; 
+    transition-timing-function: ease;
+}
+
+.img:hover {
+    transform: scale(3);
 }
 
 .figure {
